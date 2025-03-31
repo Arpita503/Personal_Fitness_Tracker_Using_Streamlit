@@ -1,10 +1,12 @@
 # Personal_Fitness_Tracker_Using_Streamlit
 
-Overview
+**Overview**
+----
 
 The Personal Fitness Tracker is a Python-based application designed to help users track their fitness progress by predicting calorie expenditure, analyzing workout efficiency, and providing exercise recommendations. It utilizes machine learning techniques to offer personalized insights based on user-specific parameters such as age, BMI, workout duration, heart rate, and body temperature.
 
-Features
+**Features**
+----
 
 Calorie Prediction: Uses a trained machine learning model (Random Forest Regressor) to estimate calorie burn.
 
@@ -14,7 +16,8 @@ Workout Recommendations: Provides exercise suggestions based on user input.
 
 User-friendly Interface: Built using Streamlit for easy interaction.
 
-System Design
+**System Design**
+----
 
 The system follows a structured pipeline:
 
